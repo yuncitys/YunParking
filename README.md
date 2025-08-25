@@ -44,12 +44,11 @@ https://gitee.com/yuncitys/
 
 **[停车在线演示](https://parking.yuncitys.com/#/)**
 
-![img_27.png](doc/img_27.png)
-![img_4.png](doc/img_4.png)
-![img.png](doc/img.png)
-![img_1.png](doc/img_1.png)
-![img_2.png](doc/img_2.png)
-![img_3.png](doc/img_3.png)
+
+<img width="3452" height="1984" alt="image" src="https://github.com/user-attachments/assets/eda11eb7-29c0-42b5-8047-fccac38ab05a" />
+<img width="3450" height="1980" alt="image" src="https://github.com/user-attachments/assets/cc335186-1261-45db-821e-836591106128" />
+<img width="3452" height="1982" alt="image" src="https://github.com/user-attachments/assets/e0ed7e29-8cfe-441c-867a-cf698e1bc482" />
+
 
 ### 开源版本项目结构
 
