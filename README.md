@@ -43,6 +43,15 @@ https://gitee.com/yuncitys/
 ### 最新版本
 
 **[停车在线演示](https://parking.yuncitys.com/#/)**
+<img width="1420" height="1700" alt="image" src="https://github.com/user-attachments/assets/060bf5bf-84d4-4ca5-bc2e-ab1a0551b185" />
+<img width="1418" height="1630" alt="image" src="https://github.com/user-attachments/assets/1833bb40-e86c-4343-8fef-c473f1818c6a" />
+<img width="1408" height="1572" alt="image" src="https://github.com/user-attachments/assets/1c4a60d2-4899-4ee5-a5f3-95b9f2e10a96" />
+<img width="1408" height="1418" alt="image" src="https://github.com/user-attachments/assets/ff147804-ab72-466a-8841-efa647030e05" />
+<img width="1408" height="1514" alt="image" src="https://github.com/user-attachments/assets/c188da4b-fd8f-45dc-8435-e83f8484a5f3" />
+<img width="1414" height="1662" alt="image" src="https://github.com/user-attachments/assets/2e30abcd-b7da-4697-8ff4-56d875870907" />
+<img width="1404" height="1748" alt="image" src="https://github.com/user-attachments/assets/0ca6f474-29b5-4ead-8aab-a8129d4d00a3" />
+<img width="1406" height="1670" alt="image" src="https://github.com/user-attachments/assets/3c90bf1d-8487-488b-b524-753bc30112a0" />
+
 
 
 <img width="3452" height="1984" alt="image" src="https://github.com/user-attachments/assets/eda11eb7-29c0-42b5-8047-fccac38ab05a" />
